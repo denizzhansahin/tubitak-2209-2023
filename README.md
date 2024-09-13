@@ -24,3 +24,12 @@ Sonuç olarak, zararlılarla mücadele kapsamında yapay zekaya dayalı entegre 
 alanda yapılan çalışmalara katkı sağlanması planlanmaktadır.
 
 Geliştirdiğimiz React Native tabanlı mobil uygulama ile birlikte kullanıcılar Raspberry Pi tarafından Firebase Firestore ve Firebase Cloud Storage içindeki bilgileri görüntüleyebilecektir.
+
+![Ekran Görüntüsü - 2024-08-18 15-33-51](https://github.com/user-attachments/assets/acf33027-b885-4ab9-9a64-c942519cfaab)
+![Ekran Görüntüsü - 2024-08-18 15-32-55](https://github.com/user-attachments/assets/cb26477c-cde3-4a36-b706-a98fdc073254)
+![Ekran Görüntüsü - 2024-08-18 15-31-40](https://github.com/user-attachments/assets/13cb5a38-6778-43e1-a510-53b87d691b26)
+![Ekran Görüntüsü - 2024-08-18 15-30-28](https://github.com/user-attachments/assets/2f517f45-cff3-434e-9940-0eb5f93d1be1)
+
+![Ekran Görüntüsü - 2024-08-18 15-29-30](https://github.com/user-attachments/assets/19e41069-718c-452d-80ae-69ab3c8ba8ff)
+
+
